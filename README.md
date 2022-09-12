@@ -11,14 +11,13 @@
 ✉️  You can contact me at (mailto: melikebuga15@gmail.com)
 </div>
 <div>
-<h3 align="center">📫 Reach out to me:   </h3><br>
+<h3 align="center">📫 Reach out to me:   </h3>
 <p align="center"> 
 <a href="https://github.com/melikebuga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/mellikebuga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://tr.linkedin.com/in/melikebuga46" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <div align="center">
 <h3 align="center">Tech I use</h3>
-<br/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="65" height="65" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="85" height="65" />
 <img align="center" src="https://png.pngitem.com/pimgs/s/31-312064_programming-icon-png-python-logo-512-transparent-png.png" width="65" height="55" />
