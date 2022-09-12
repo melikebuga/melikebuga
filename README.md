@@ -1,13 +1,15 @@
 <div align="center">
-
 Hi there, I'm Melike :blush:👋
 ======================
-
 Junior Software Developer 🤙
-  <br/>
+<br/>
 🌍  I'm based in Kahramanmaraş
+ <br/>
 <font color="pink">I turn :coffee: into `< code />` </font>
+<br/>
+<br/>
 <img src="https://media.giphy.com/media/fXhdgo6ERFLukIcmX3/giphy.gif" align="right" width="400" height="250">
+<br/>
 </div>
 <br />
 <br />
