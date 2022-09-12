@@ -10,7 +10,6 @@
 <div align="center">
 ✉️  You can contact me at (mailto: melikebuga15@gmail.com)
 </div>
-<br />
 <div>
 <h3 align="center">📫 Reach out to me:   </h3><br>
 <p align="center"> 
