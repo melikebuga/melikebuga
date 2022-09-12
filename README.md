@@ -22,11 +22,11 @@
 <br/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="65" height="65" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="65" height="65" />
-<img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd3%2FPython_icon_%2528black_and_white%2529.svg%2F2048px-Python_icon_%2528black_and_white%2529.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython_icon_(black_and_white).svg&tbnid=XbFuPwB4p_uVDM&vet=12ahUKEwiGhZHo5o76AhXLDuwKHWtBCwsQMygGegUIARDIAQ..i&docid=9ekqY5jaJbRj5M&w=2048&h=2048&q=python%20png&ved=2ahUKEwiGhZHo5o76AhXLDuwKHWtBCwsQMygGegUIARDIAQ#imgrc=ZvOg0R7OCnnTlM&imgdii=dBw3S5J4QQ2RIM" width="65" height="65" />
+<img align="center" src="https://png.pngitem.com/pimgs/s/31-312064_programming-icon-png-python-logo-512-transparent-png.png" width="65" height="65" />
 <img align="center" src="https://miro.medium.com/max/1200/1*wwnExqe720PPHykHhs5Hqw.png" width="65" height="65" />
 <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="65" height="65" />
 <img align="center" src="https://miro.medium.com/max/449/1*Bh_B98GcAHTzYq21D79GLg.png" width="65" height="65" />
-<img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.infragistics.com%2Fmarketing%2FWebsite%2Fproducts%2Fignite-ui-landing%2Fnet-mvc-logo.svg&imgrefurl=https%3A%2F%2Fwww.infragistics.com%2Fproducts%2Fignite-ui-aspnet-mvc&tbnid=nyz1TqWND7_BUM&vet=12ahUKEwiBtL2R5476AhWiPOwKHct0DOsQMygVegUIARDnAQ..i&docid=Nze3faujuwSR7M&w=800&h=312&q=mvc%20logo&ved=2ahUKEwiBtL2R5476AhWiPOwKHct0DOsQMygVegUIARDnAQ#imgrc=umDmGhPVi6rFBM&imgdii=NLNj_R-8lu3fHM" width="65" height="65" />
+<img align="center" src="https://miro.medium.com/max/1200/1*GWjlB9_708s3lbx8ufOYlw.jpeg" width="65" height="65" />
 
 <details align="center">
 <summary>:bulb: Github Stats</summary>
