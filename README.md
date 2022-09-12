@@ -1,33 +1,24 @@
 <div align="center">
 <h1>Hi there, I'm Melike :blush:👋 </h1>
-<br />
 <h2>Junior Software Developer 🤙</h2>
-<br/>
 <h3>I'm based in Türkiye 🌍</h3>
-<br/>
 <font color="pink">I turn :coffee: into `< code />` </font>
-<br/><br/><br/><br/>
+<br/><br/>
 <img src="https://media.giphy.com/media/fXhdgo6ERFLukIcmX3/giphy.gif" align="center" width="420" height="350">
+</div>
 <br/>
+<div align="left">
+<✉️  You can contact me at [melikebuga15@gmail.com](mailto: melikebuga15@gmail.com)
 </div>
-<br /><br />
-<div align="left"
-Reach out to me
-* ✉️  You can contact me at [melikebuga15@gmail.com](mailto: melikebuga15@gmail.com)
 <br />
-<br />
-</div>
 <div>
-<h3 align="center"> - 📫 Reach out to me:   </h3><br>
+<h3 align="center">📫 Reach out to me:   </h3><br>
 <p align="left"> 
 <a href="https://github.com/melikebuga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/mellikebuga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://tr.linkedin.com/in/melikebuga46" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <div align="left">
 <br />
-<br />
-<br />
-======================
 <h3 align="center">Tech I use</h3>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="25" height="25" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="25" height="25" />
