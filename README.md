@@ -1,6 +1,6 @@
 <div align="center">
-Hi there, I'm Melike :blush:👋
-======================
+ <h1>Hi there, I'm Melike :blush:👋 </h1>
+<br />
 Junior Software Developer 🤙
 <br/>
 🌍  I'm based in Kahramanmaraş
