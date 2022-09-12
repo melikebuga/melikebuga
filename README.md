@@ -8,6 +8,8 @@ Junior Software Developer 🤙
 <font color="pink">I turn :coffee: into `< code />` </font>
 <br/>
 <br/>
+<br/>
+<br/>
  <div align="center">
 <img src="https://media.giphy.com/media/fXhdgo6ERFLukIcmX3/giphy.gif" align="right" width="400" height="250">
 <br/>
