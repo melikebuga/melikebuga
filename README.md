@@ -4,8 +4,7 @@ Hi there, I'm Melike :blush:👋
 ======================
 
 Junior Software Developer 🤙
-* 🌍  I'm based in Kahramanmaraş
-------------------
+🌍  I'm based in Kahramanmaraş
 
 <img src="https://media.giphy.com/media/fXhdgo6ERFLukIcmX3/giphy.gif" align="right" width="400" height="250">
 <font color="pink">I turn :coffee: into `< code />` </font>
