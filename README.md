@@ -6,16 +6,17 @@ Hi there, I'm Melike :blush:👋
 Junior Software Developer 🤙
   <br/>
 🌍  I'm based in Kahramanmaraş
-
-<img src="https://media.giphy.com/media/fXhdgo6ERFLukIcmX3/giphy.gif" align="right" width="400" height="250">
 <font color="pink">I turn :coffee: into `< code />` </font>
+<img src="https://media.giphy.com/media/fXhdgo6ERFLukIcmX3/giphy.gif" align="right" width="400" height="250">
 </div>
-
 <br />
-### Reach out to me
+<br />
+<div align="left"
+Reach out to me
 * ✉️  You can contact me at [melikebuga15@gmail.com](mailto: melikebuga15@gmail.com)
 <br />
 <br />
+</div>
 <div>
 ### <h3 align="center"> - 📫 Reach out to me:   </h3><br>
 <p align="center"> 
