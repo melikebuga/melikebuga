@@ -18,13 +18,15 @@
 <a href="https://tr.linkedin.com/in/melikebuga46" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <div align="center">
 <h3 align="center">Tech I use</h3>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="65" height="65" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="85" height="65" />
-<img align="center" src="https://img.icons8.com/ios-filled/50/000000/python.png" width="65" height="55" />
-<img align="center" src="https://miro.medium.com/max/1200/1*wwnExqe720PPHykHhs5Hqw.png" width="90" height="65" />
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="65" height="65" />
-<img align="center" src="https://miro.medium.com/max/449/1*Bh_B98GcAHTzYq21D79GLg.png" width="65" height="55" />
-<img align="center" src="https://miro.medium.com/max/1200/1*GWjlB9_708s3lbx8ufOYlw.jpeg" width="85" height="65" />
+<img align="center" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="5" height="65" />
+<img align="center" src="https://img.icons8.com/color/48/000000/pandas.png" width="65" height="65" />
+<img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" width="65" height="65" />
+<img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" width="65" height="65" />
+<img align="center" src="https://img.icons8.com/color/48/000000/git.png" width="65" height="65" />
+<img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="65" height="65" />
+<img align="https://img.icons8.com/officel/16/000000/php-logo.png" width="65" height="65" />
+<img align="center" src="https://img.icons8.com/color/48/000000/tensorflow.png" width="65" height="65" />
+<img align="center" src="https://img.icons8.com/color/48/000000/net-framework.png" width="65" height="65" />
 </div>
 <br/><br/>
 <details align="center">
