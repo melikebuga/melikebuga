@@ -29,10 +29,6 @@
 <img align="center" src="https://miro.medium.com/max/1200/1*GWjlB9_708s3lbx8ufOYlw.jpeg" width="85" height="65" />
 
 <details align="center">
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
-</details>
-<details align="center">
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
 </details>
