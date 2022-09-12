@@ -31,6 +31,10 @@
 </div>
 <br/><br/>
 <details align="center">
-<summary>:bulb:  Most Used Languages</summary>
+<summary>:bulb:  Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=melikebuga&show_icons=true&locale=en" >
+</details>
+<details align="center">
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darimuhittin&show_icons=true&locale=en&layout=compact" >
 </details>
