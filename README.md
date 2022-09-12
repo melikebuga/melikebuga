@@ -25,6 +25,8 @@
 <img align="center" src="https://img.icons8.com/color/48/000000/git.png" width="65" height="65" />
 <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="65" height="65" />
 <img align="center" src="https://img.icons8.com/color/48/000000/tensorflow.png" width="65" height="65" />
+<img align="center" src="https://img.icons8.com/fluency/48/000000/matlab.png" width="65" height="65" />
+<img align="center" src="https://img.icons8.com/ios/50/000000/sql.png" width="65" height="65" />
 <img align="center" src="https://img.icons8.com/color/48/000000/net-framework.png" width="65" height="65" />
 </div>
 <br/><br/>
