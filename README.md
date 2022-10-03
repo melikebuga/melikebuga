@@ -18,18 +18,37 @@
 <a href="https://tr.linkedin.com/in/melikebuga46" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <div align="center">
 <h3 align="center">Tech I use</h3>
+  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img align="center" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="65" height="65" />
 </a>
+<a href="https://pandas.pydata.org/" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/pandas.png" width="65" height="65" />
+</a>
+<a href="https://www.python.org/" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" width="65" height="65" />
+</a>
+<a href="https://keras.io/" target="_blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" width="65" height="65" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/git.png" width="65" height="65" />
+</a>
+<a href="" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="65" height="65" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/tensorflow.png" width="65" height="65" />
+</a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
 <img align="center" src="https://img.icons8.com/fluency/48/000000/matlab.png" width="65" height="65" />
+</a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank">
 <img align="center" src="https://img.icons8.com/ios/50/000000/sql.png" width="65" height="65" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/net-framework.png" width="65" height="65" />
+</a>
 </div>
 <br/><br/>
 <details align="center">
