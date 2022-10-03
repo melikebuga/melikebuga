@@ -18,7 +18,8 @@
 <a href="https://tr.linkedin.com/in/melikebuga46" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <div align="center">
 <h3 align="center">Tech I use</h3>
-<img align="center" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="65" height="65" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img align="center" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="65" height="65" /> </a>
 <img align="center" src="https://img.icons8.com/color/48/000000/pandas.png" width="65" height="65" />
 <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png" width="65" height="65" />
 <img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" width="65" height="65" />
