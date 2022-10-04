@@ -4,7 +4,7 @@
 <h3>I'm based in Türkiye 🌍</h3>
 <font color="pink">I turn :coffee: into `< code />` </font>
 <br/><br/>
-<img src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" align="center" width="420" height="350">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="center" width="420" height="350">
 </div>
 <br/>
 <div align="">
