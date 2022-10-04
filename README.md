@@ -22,6 +22,9 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img align="center" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="65" height="65" />
 </a>
+<a href="https://opencv.org/" target="_blank">
+<img align="center" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="65" height="65" />
+</a>
 <a href="https://pandas.pydata.org/" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/pandas.png" width="65" height="65" />
 </a>
