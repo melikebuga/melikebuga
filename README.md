@@ -32,7 +32,7 @@
 <img align="" src="https://img.icons8.com/color/48/000000/pandas.png" width="65" height="65" />
 </a>
 <a href="https://keras.io/" target="_blank">
-<img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" width="65" height="65" />
+<img align="" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" width="65" height="65" />
 </a>
 <a href="https://git-scm.com/" target="_blank">
 <img align="" src="https://img.icons8.com/color/48/000000/git.png" width="65" height="65" />
