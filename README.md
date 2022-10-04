@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm Melike :blush:👋 </h1>
-<h2>Junior Software Developer 🤙</h2>
+<h2>A passionate software engineer with a bachelor's degree 🤙</h2>
 <h3>I'm based in Türkiye 🌍</h3>
 <font color="pink">I turn :coffee: into `< code />` </font>
 <br/><br/>
