@@ -35,7 +35,7 @@
 <img align="" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" width="65" height="65" />
 </a>
 <a href="https://scikit-learn.org/stable/" target="_blank">
-<img align="" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="65" height="65" />
+<img align="" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="95" height="65" />
 </a>
 <a href="https://matplotlib.org/" target="_blank">
 <img align="" src="https://matplotlib.org/_static/images/logo2.svg" width="65" height="65" />
